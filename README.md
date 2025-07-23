@@ -1,1 +1,1 @@
-# -Word-Count-Program
+This is a simple Python program that calculates the frequency of each word in a given paragraph of text. It demonstrates basic text processing using Python's built-in data structures and string manipulation.
